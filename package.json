@@ -1,0 +1,38 @@
+{
+  "name": "react-native-icondirectory",
+  "version": "1.0.0",
+  "description": "One container to hold expo icons",
+  "main": "src/index.js",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ClusterStack/react-native-icondirectory.git"
+  },
+  "keywords": [
+    "expo",
+    "react-native",
+    "icons"
+  ],
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
+  "author": "Lucas Oliveira",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ClusterStack/react-native-icondirectory/issues"
+  },
+  "homepage": "https://github.com/ClusterStack/react-native-icondirectory#readme",
+  "peerDependencies": {
+    "react": "^16.13.1",
+    "react-native": "^0.62.2"
+  },
+  "dependencies": {
+    "@expo/vector-icons": "^10.2.0"
+  },
+  "devDependencies": {
+    "babel": "^6.23.0",
+    "jest": "^26.1.0"
+  }
+}
