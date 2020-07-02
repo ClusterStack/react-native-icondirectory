@@ -1,6 +1,6 @@
 {
   "name": "@ClusterStack/react-native-icondirectory",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "One container to hold expo icons",
   "main": "src/index.js",
   "scripts": {
@@ -27,7 +27,9 @@
   "peerDependencies": {
     "react": "^16.13.1",
     "react-native": "^0.62.2",
-    "expo": "^36.0.0"
+    "expo": "^36.0.0",
+    "lodash": "^4.17.15",
+    "prop-types": "^15.6.2"
   },
   "dependencies": {
     "@expo/vector-icons": "^10.2.0"
