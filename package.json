@@ -16,7 +16,7 @@
     "icons"
   ],
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/jucasoliveira"
+    "registry": "https://npm.pkg.github.com/"
   },
   "author": "Lucas Oliveira",
   "license": "MIT",
