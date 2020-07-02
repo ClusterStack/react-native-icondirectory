@@ -4,7 +4,7 @@
   "description": "One container to hold expo icons",
   "main": "src/index.js",
   "scripts": {
-    "test": ""
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
@@ -16,7 +16,7 @@
     "icons"
   ],
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/"
+    "registry": "https://npm.pkg.github.com/jucasoliveira"
   },
   "author": "Lucas Oliveira",
   "license": "MIT",
