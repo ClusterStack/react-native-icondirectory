@@ -12,7 +12,6 @@ import {
   EvilIcons
 } from '@expo/vector-icons';
 
-import Colors from '../../constants/Colors';
 import { View } from 'react-native';
 
 export default function IconDirectory({ type, name, size, focused, customColor, style }) {
@@ -24,7 +23,7 @@ export default function IconDirectory({ type, name, size, focused, customColor, 
           size={size ? size : 26}
           style={{ marginBottom: -3 }}
           color={
-            customColor ? customColor : focused ? Colors.tabIconSelected : Colors.tabIconDefault
+            customColor ? customColor : focused ? '#2f95dc' : '#ccc'
           }
         />
       )}
@@ -34,7 +33,7 @@ export default function IconDirectory({ type, name, size, focused, customColor, 
           size={size ? size : 26}
           style={{ marginBottom: -3 }}
           color={
-            customColor ? customColor : focused ? Colors.tabIconSelected : Colors.tabIconDefault
+            customColor ? customColor : focused ? '#2f95dc' : '#ccc'
           }
         />
       )}
@@ -44,7 +43,7 @@ export default function IconDirectory({ type, name, size, focused, customColor, 
           size={size ? size : 26}
           style={{ marginBottom: -3 }}
           color={
-            customColor ? customColor : focused ? Colors.tabIconSelected : Colors.tabIconDefault
+            customColor ? customColor : focused ? '#2f95dc' : '#ccc'
           }
         />
       )}
@@ -54,7 +53,7 @@ export default function IconDirectory({ type, name, size, focused, customColor, 
           size={size ? size : 26}
           style={{ marginBottom: -3 }}
           color={
-            customColor ? customColor : focused ? Colors.tabIconSelected : Colors.tabIconDefault
+            customColor ? customColor : focused ? '#2f95dc' : '#ccc'
           }
         />
       )}
@@ -64,7 +63,7 @@ export default function IconDirectory({ type, name, size, focused, customColor, 
           size={size ? size : 26}
           style={{ marginBottom: -3 }}
           color={
-            customColor ? customColor : focused ? Colors.tabIconSelected : Colors.tabIconDefault
+            customColor ? customColor : focused ? '#2f95dc' : '#ccc'
           }
         />
       )}
@@ -74,7 +73,7 @@ export default function IconDirectory({ type, name, size, focused, customColor, 
           size={size ? size : 26}
           style={{ marginBottom: -3 }}
           color={
-            customColor ? customColor : focused ? Colors.tabIconSelected : Colors.tabIconDefault
+            customColor ? customColor : focused ? '#2f95dc' : '#ccc'
           }
         />
       )}
@@ -84,7 +83,7 @@ export default function IconDirectory({ type, name, size, focused, customColor, 
           size={size ? size : 26}
           style={{ marginBottom: -3 }}
           color={
-            customColor ? customColor : focused ? Colors.tabIconSelected : Colors.tabIconDefault
+            customColor ? customColor : focused ? '#2f95dc' : '#ccc'
           }
         />
       )}
@@ -94,7 +93,7 @@ export default function IconDirectory({ type, name, size, focused, customColor, 
           size={size ? size : 26}
           style={{ marginBottom: -3 }}
           color={
-            customColor ? customColor : focused ? Colors.tabIconSelected : Colors.tabIconDefault
+            customColor ? customColor : focused ? '#2f95dc' : '#ccc'
           }
         />
       )}
@@ -104,7 +103,7 @@ export default function IconDirectory({ type, name, size, focused, customColor, 
           size={size ? size : 26}
           style={{ marginBottom: -3 }}
           color={
-            customColor ? customColor : focused ? Colors.tabIconSelected : Colors.tabIconDefault
+            customColor ? customColor : focused ? '#2f95dc' : '#ccc'
           }
         />
       )}
@@ -114,7 +113,7 @@ export default function IconDirectory({ type, name, size, focused, customColor, 
           size={size ? size : 26}
           style={{ marginBottom: -3 }}
           color={
-            customColor ? customColor : focused ? Colors.tabIconSelected : Colors.tabIconDefault
+            customColor ? customColor : focused ? '#2f95dc' : '#ccc'
           }
         />
       )}

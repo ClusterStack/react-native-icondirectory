@@ -1,6 +1,6 @@
 {
   "name": "@ClusterStack/react-native-icondirectory",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "One container to hold expo icons",
   "main": "src/index.js",
   "scripts": {
